@@ -1,2 +1,3 @@
-# Photogrammetry-Airsim
-This repository contains files for a drone survey conducted in the AirsimNH environment, under the supervision of AeroClub MNNIT Allahabad, Prayagraj.
+# Photogrammetry Using Drone Swarms  
+
+This project, conducted under AeroClub MNNIT Allahabad, focuses on utilizing drone swarms for photogrammetry to create accurate 3D models. Using Python, Agisoft Metashape, and AirSim, we successfully generated a 3D model of a house. The drone survey was virtually performed in the AirSimNH environment using Python APIs to simulate real-world conditions. Captured images were processed in Agisoft Metashape to reconstruct the model with high precision. The project report and a demonstration video were published by AeroClub MNNIT Allahabad, showcasing the feasibility of drone-based photogrammetry for mapping and reconstruction applications.
